@@ -2,8 +2,7 @@
 
 **`Desenvolvedora em Formação`**
 
-Exploradora do front-end, apaixonada por design, interação e inovação.
-
+Exploradora do front-end.
 ---
 
 ### 🤖 Linguagens e Tecnologias
